@@ -1,0 +1,2 @@
+class MyKlass < ApplicationRecord
+end

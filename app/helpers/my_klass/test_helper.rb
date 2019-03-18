@@ -1,0 +1,2 @@
+module MyKlass::TestHelper
+end
